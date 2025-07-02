@@ -66,4 +66,9 @@ The main goal of this project is to extract meaningful insights from pizza sales
 1. Clone this repository:
    ```bash
    git clone https://github.com/Mushfiqe-Alam-Shafin/pizza_sales.git
- 
+
+ #### 🧠 Author
+
+**Mushfiqe Alam Shafin**  
+BBA in MIS | Aspiring Data Analyst  
+[GitHub Profile](https://github.com/Mushfiqe-Alam-Shafin)
